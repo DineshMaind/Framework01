@@ -1,0 +1,5 @@
+E:\MVCDemos\MyDemoApp\MyDemoApp.Core\bin\Debug\MyDemoApp.Core.dll
+E:\MVCDemos\MyDemoApp\MyDemoApp.Core\bin\Debug\MyDemoApp.Core.pdb
+E:\MVCDemos\MyDemoApp\MyDemoApp.Core\obj\Debug\MyDemoApp.Core.dll
+E:\MVCDemos\MyDemoApp\MyDemoApp.Core\obj\Debug\MyDemoApp.Core.pdb
+E:\MVCDemos\MyDemoApp\MyDemoApp.Core\obj\Debug\MyDemoApp.Core.csprojResolveAssemblyReference.cache
